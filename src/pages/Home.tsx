@@ -3,7 +3,6 @@ import traveler from '../assets/images/Traveller 1.png';
 import flights from '../assets/images/flights.png';
 import weather from '../assets/images/weather.png';
 import events from '../assets/images/events.png';
-import customization from '../assets/images/customization.png';
 import navigation from '../assets/images/Navigation.png'
 import selection from '../assets/images/selection 1.png';
 import water from '../assets/images/water-sport 1.png';
